@@ -1,6 +1,0 @@
-pkg update && pkg upgrade
-pkg install git
-git clone https://github.com/Akuhacker23/mattiin-lampu-rumah-orang/
-cd jaringan
-ls
-sh jaringan.sh
